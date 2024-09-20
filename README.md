@@ -47,9 +47,6 @@ Sales method performance: In-store sales dominate, followed by outlet and online
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request with any improvements, bug fixes, or new features. Here's how you can contribute:
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 📧 Contact
 For any questions or feedback, feel free to reach out to me:
 
